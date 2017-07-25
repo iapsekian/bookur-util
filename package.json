@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/yeshijian/bookur-util/issues"
   },
-  "homepage": "https://github.com/yeshijian/bookur-util#readme"
+  "homepage": "https://github.com/yeshijian/bookur-util#readme",
+  "dependencies": {
+    "bson-ext": "^1.0.5",
+    "child_process": "^1.0.2",
+    "debug": "^2.6.8",
+    "mongodb": "^2.2.30"
+  }
 }
