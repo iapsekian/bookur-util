@@ -1,0 +1,19 @@
+{
+  "name": "bookur-util",
+  "version": "0.0.1",
+  "description": "BookUr MDB Util Lib",
+  "main": "bookurUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeshijian/bookur-util.git"
+  },
+  "author": "Casper Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeshijian/bookur-util/issues"
+  },
+  "homepage": "https://github.com/yeshijian/bookur-util#readme"
+}
