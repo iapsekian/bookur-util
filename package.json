@@ -1,6 +1,6 @@
 {
   "name": "bookur-util",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "BookUr MDB Util Lib",
   "main": "bookurUtil.js",
   "scripts": {

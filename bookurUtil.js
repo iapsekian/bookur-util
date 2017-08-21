@@ -1347,6 +1347,7 @@ let getContentsAsync = async (options) => {
 	}
 
 	db.close()
+	
 	return contents
 }
 
